@@ -4,9 +4,9 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Business Goal](#technologies-used)
+* [Model Building](#conclusions)
+* [Model Evaluation](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
